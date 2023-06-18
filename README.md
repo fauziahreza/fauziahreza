@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauziahreza&label=Profile%20views&color=0e75b6&style=flat" alt="fauziahreza" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fauziahreza" alt="fauziahreza" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native and Tensor Flow**
 
 - 👨‍💻 All of my projects are available at [https://frezaokta.netlify.app/](https://frezaokta.netlify.app/)
 
