@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fauziah Reza Oktaviyani</h1>
-<h3 align="center">I have a passion for UI/UX and programming.</h3>
+<h3 align="center">I have a passion for UI/UX.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauziahreza&label=Profile%20views&color=0e75b6&style=flat" alt="fauziahreza" /> </p>
 
