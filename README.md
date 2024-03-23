@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **fauziahreza123@gmail.com**
 
-- 📄 Know about my experiences [https://raw.githubusercontent.com/fauziahreza/portfolio/master/src/Assets/cv_ats_okta.pdf](https://raw.githubusercontent.com/fauziahreza/portfolio/master/src/Assets/cv_ats_okta.pdf)
+- 📄 Know about my experiences [https://raw.githubusercontent.com/fauziahreza/portfolio/master/src/Assets/cv_ats_okta.pdf](https://github.com/fauziahreza/Portfolio/blob/master/src/Assets/cv_ats_okta.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
