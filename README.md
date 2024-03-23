@@ -4,13 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauziahreza&label=Profile%20views&color=0e75b6&style=flat" alt="fauziahreza" /> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack and Tensor Flow**
+- 🌱 I’m currently learning **MERN Stack and Data**
 
 - 👨‍💻 All of my projects are available at [https://frezaokta.netlify.app/](https://frezaokta.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@fauziahreza123](https://medium.com/@fauziahreza123)
-
-- 💬 Ask me about **UI/UX**
+- 💬 Ask me about **UI/UX, Web Development, or Machine Learning**
 
 - 📫 How to reach me **fauziahreza123@gmail.com**
 
